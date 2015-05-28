@@ -16,9 +16,10 @@
 
     },
     "autoload": {
-        "files": [
-            "tbs_class.php",
-            "tbs_plugin_opentbs.php"
+        "classmap": [
+            "tbd/plugins/",
+            "tbd/tbs_class.php",
+            "opentbs/tbd/tbs_plugin_opentbs.php"
         ]
     }
 }
