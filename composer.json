@@ -13,7 +13,7 @@
         "classmap": [
             "tbs/plugins/",
             "tbs/tbs_class.php",
-            "opentbs/tbd/tbs_plugin_opentbs.php"
+            "opentbs/tbs_plugin_opentbs.php"
         ]
     }
 }
